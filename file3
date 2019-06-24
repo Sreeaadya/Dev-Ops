@@ -1,2 +1,8 @@
-new codeadding some more lines
+new code
+adding some more lines
+<<<<<<< HEAD
 add to the next line
+=======
+add to the next line
+this is file3
+>>>>>>> master
